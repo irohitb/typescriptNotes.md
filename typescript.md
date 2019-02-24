@@ -1,12 +1,6 @@
 
 # TypeScript 
 
-# Reference Links 
-
-[Tutorial Point Link](https://www.tutorialspoint.com/typescript/typescript_overview.html)
-
-[Video Link From Transversry Media](https://www.youtube.com/watch?v=rAy_3SIqT-E)
-
 
 ## What is typescript and why use it?
 
